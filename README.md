@@ -17,8 +17,9 @@
 
 2. Kiểm thử.
 - Kiểm thử công khai sẽ sử dụng 30% bộ dữ liệu test, và 70% còn lại sẽ dành cho kiểm thử không công khai.
-  + Kiểm thử công khai - **Accuracy**: 99%<br>
-  + Kiểm thử không công khai - **Accuracy**: 97,57%<br>
+- **Accuracy**:
+  + Kiểm thử công khai: 99%<br>
+  + Kiểm thử không công khai: 97,57%<br>
 
 3. Bộ dữ liệu huấn luyện.
 - Bộ dữ liệu có kích thước 10 nghìn ảnh định dạng .jpg, với 2 labels: Male và Female.
@@ -36,4 +37,4 @@
 
 ### Disclaimer.
 - Dữ liệu huấn luyện được cung cấp bởi viện AI-UET: https://www.kaggle.com/competitions/2425-ii-ait-3002-1-gender-classification
-- Notebook trên Kaggle có 25 versions. Notebook gốc bao gồm khoảng 42 versions từ lúc bắt đầu làm đã bị mất do sơ xuất.
+- Notebook trên Kaggle có 25 versions. Notebook gốc bao gồm khoảng 42 versions từ lúc bắt đầu làm đã bị xoá do sơ xuất.
