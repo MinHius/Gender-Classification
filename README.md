@@ -2,7 +2,7 @@
 ### Thông tin chung. 
 - Dự án cuối kỳ môn xử lý và phân tích hình ảnh - Làm cá nhân.
 - Mô hình ResNet-18 phân loại giới tính (nhị phân).
-- Vì dự án là một competition trên Kaggle, nên các thử nghiệm được lưu trữ trên Kaggle: 
+- Vì dự án là một competition trên Kaggle, nên các thử nghiệm được lưu trữ trên Kaggle: https://www.kaggle.com/code/minhius/gender-classification
 
 ### Về dự án:
 1. Mô hình.
@@ -37,3 +37,4 @@
 
 ### Disclaimer.
 - Dữ liệu huấn luyện được cung cấp bởi viện AI-UET: https://www.kaggle.com/competitions/2425-ii-ait-3002-1-gender-classification
+- Notebook trên Kaggle có 25 versions. Notebook gốc bao gồm khoảng 42 versions từ lúc bắt đầu làm đã bị mất do sơ xuất.
