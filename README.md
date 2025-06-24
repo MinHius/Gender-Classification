@@ -28,9 +28,8 @@
 - Là tập 1000 ảnh có phân bố giống tập huấn luyện và đánh giá, không gán nhãn do yêu cầu đề bài.
 
 5. Các loại file.
-- **train.ipynb**: File mã nguồn fine-tune mô hình.
-- **ViT_reciproCAM.ipynb**: File mã nguồn kiểm thử có áp dụng reciproCAM trên sample nhỏ từ bộ kiểm thử và bộ huấn luyện.
-- **Test_final.ipynb**: File mã nguồn kiểm thử trên bộ kiểm thử đầy đủ.
+- **gender-classification.ipynb**: File mã nguồn fine-tune mô hình và báo cáo.
+- **Illustrations.zip**: File zip chứa các ảnh minh họa trong notebook và một số kết quả huấn luyện.
 
 ### Cách cài đặt.
 - Notebook chạy một lượt từ đầu đến cuối.
